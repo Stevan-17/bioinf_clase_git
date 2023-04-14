@@ -1,1 +1,1 @@
-# bioinf_clase_git
+# bioinformatica_clase_git
